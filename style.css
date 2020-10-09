@@ -9,20 +9,25 @@ body {
 
 /* Footer style */
 
-.footer {
-    padding-top: 20px;
+.green-line {
     border-top-style: solid;
     border-width: 6px;
     border-color: green;
 }
 
+/*
 .footer2 {
-    position: relative;
+    position: inherit;
     left: 0;
     bottom: 0;
     height: 60px;
+    padding-top: 8px;
     width: 100%;
-    background-color: red;
-    color: white;
+    background-color:#343a40;
+    color: #6c757d;
     text-align: center;
+    border-top-style: solid;
+    border-width: 6px;
+    border-color: green;
   }
+  */
