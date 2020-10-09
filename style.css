@@ -8,12 +8,21 @@ body {
 }
 
 /* Footer style */
+
 .footer {
-    position: static !important;
-    margin-top: 80px;
-    height: 100px;
-    text-align: center !important;
+    padding-top: 20px;
     border-top-style: solid;
     border-width: 6px;
     border-color: green;
 }
+
+.footer2 {
+    position: relative;
+    left: 0;
+    bottom: 0;
+    height: 60px;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+  }
