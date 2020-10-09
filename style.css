@@ -10,9 +10,9 @@ body {
 /* Footer style */
 
 .green-line {
-    border-top-style: solid;
-    border-width: 6px;
-    border-color: green;
+    border-top-style: solid !important;
+    border-width: 6px  !important;
+    border-color: green !important;
 }
 
 /*
